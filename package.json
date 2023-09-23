@@ -1,0 +1,22 @@
+{
+  "name": "nodetalk",
+  "version": "1.0.0",
+  "description": "Lan API for node js",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aurora-Systems/nodeTalk.git"
+  },
+  "author": "Zayne Komichi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aurora-Systems/nodeTalk/issues"
+  },
+  "homepage": "https://github.com/Aurora-Systems/nodeTalk#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
